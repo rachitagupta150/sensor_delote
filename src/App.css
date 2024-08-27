@@ -1,0 +1,7 @@
+.halfbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Distribute the graphs evenly */
+    gap: 20px; /* Add some space between the graphs */
+    max-width: 206vh;
+  }
